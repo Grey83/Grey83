@@ -1,4 +1,6 @@
-### Hi there 👋
+![Grey83's GitHub stats](https://github-readme-stats.vercel.app/api?username=grey83&hide_title=true&show_icons=true&text_color=539BF5&icon_color=539BF5&hide_border=true&theme=transparent&rank_icon=percentile)
+
+![Grey83's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grey83&hide_title=true&text_color=539BF5&layout=compact&hide_border=true&theme=transparent)
 
 <!--
 **Grey83/Grey83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
